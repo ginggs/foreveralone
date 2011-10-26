@@ -1,7 +1,7 @@
 Source: foreveralone
 Section: user/other
 Priority: optional
-Maintainer: developer <developer@unknown>
+Maintainer: Rodrigo Linfati <rodrigo@linfati.cl>
 Build-Depends: debhelper (>= 5), libqt4-dev, libqtm-dev, applauncherd-dev, aegis-builder, pkg-config
 Standards-Version: 3.7.3
 Homepage: http://www.linfati.com/

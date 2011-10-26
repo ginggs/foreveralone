@@ -11,8 +11,8 @@ public:
 signals:
 
 public slots:
-    Q_INVOKABLE void enable();
-    Q_INVOKABLE void disable();
+    void enable();
+    void disable();
 };
 
 #endif // FAMODE_H

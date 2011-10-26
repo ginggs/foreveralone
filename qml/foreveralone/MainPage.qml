@@ -8,7 +8,7 @@ Page {
         anchors.top: parent.top
         anchors.topMargin: parent.height / 5
         anchors.horizontalCenter: parent.horizontalCenter
-        text: qsTr("Well known game of birds and pigs cracker")
+        text: qsTr("Magic for well known game of birds and pigs")
     }
 
     Item {
