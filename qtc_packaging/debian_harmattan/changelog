@@ -1,3 +1,8 @@
+foreveralone (0.3.1) unstable; urgency=low
+  * apps.formeego.org version
+
+ -- Rodrigo Linfati <rodrigo@linfati.cl>  Fri, 28 Oct 2011 14:20:34 +0200
+
 foreveralone (0.3.0) unstable; urgency=low
   * Updates for PR1.1
 
